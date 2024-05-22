@@ -1,0 +1,3 @@
+[submodule "armory-boot"]
+	path = armory-boot
+	url = https://github.com/dress-code-IT-GmbH/armory-boot.git
